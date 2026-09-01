@@ -202,3 +202,6 @@ Current limitations include:
 Use this tool only on systems you own or have permission to test.
 
 Unauthorized port scanning may be considered suspicious or prohibited depending on the target and network.
+
+### Writer
+Afrooz Behrooznick
