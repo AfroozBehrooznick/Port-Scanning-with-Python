@@ -141,7 +141,7 @@ The current scanner uses:
 The project is currently implemented in a single Python file:
 
 ```text
-scanner.py
+PortScanning.py
 ```
 
 Main functions:
